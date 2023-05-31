@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0042571","GO:0042571","immunoglobulin complex, circulating","2/9","40/12806",0.00033776650443103,0.00490261935918402,0.00294894397544903,"Ighv13-2/Ighv1-84",2
+"GO:0019814","GO:0019814","immunoglobulin complex","2/9","47/12806",0.000466916129446097,0.00490261935918402,0.00294894397544903,"Ighv13-2/Ighv1-84",2
+"GO:0001674","GO:0001674","female germ cell nucleus","1/9","10/12806",0.00700822602039397,0.0490575821427578,0.0295083200858693,"Ncapd3",1

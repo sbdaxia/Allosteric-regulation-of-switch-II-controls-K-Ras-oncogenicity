@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0019731","GO:0019731","antibacterial humoral response","12/676","47/12719",4.3198949202754e-06,0.0117243175230507,0.0112384831206314,"Slpi/Adm/Evpl/Fau/Camp/Wfdc21/Ang4/Wfdc17/Ang/Defa5/Ighm/Defa20",12
+"GO:0019730","GO:0019730","antimicrobial humoral response","17/676","91/12719",5.03730076178335e-06,0.0117243175230507,0.0112384831206314,"Slpi/Adm/Evpl/Fau/Camp/Lgals3/Wfdc21/S100a9/Hamp2/Rpl30/Ang4/Romo1/Wfdc17/Ang/Defa5/Ighm/Defa20",17
+"GO:0008544","GO:0008544","epidermis development","32/676","262/12719",9.27246063096116e-06,0.0143877680790414,0.0137915651279454,"Apc/Celsr1/Ptch1/Stfa2/Krt6b/Anxa1/Wnt10a/Vangl2/Notch1/Lrp4/Svep1/Mycl/Fgfr2/Gab1/Strc/Evpl/Exph5/Mycn/Ift172/Dicer1/Sprr2i/Krt14/Krt87/Bcl11b/Sprr2f/Stfa2l1/Krt4/Sox21/Krtap6-5/Cstdc5/Cstdc4/Csta2",32
